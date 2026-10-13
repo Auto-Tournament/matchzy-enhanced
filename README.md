@@ -11,8 +11,8 @@
 
 <br />
 
-> [!NOTE]
-> **New setups: use [Ready Up](https://github.com/Auto-Tournament/ready-up).** Ready Up is the native match plugin Auto Tournament 3.0 talks to. MatchZy Enhanced stays supported for servers that already run it and for Auto Tournament 2.x.
+> [!IMPORTANT]
+> **MatchZy Enhanced is not supported in Auto Tournament 3.x.** It works with Auto Tournament 2.x. From 3.x, servers run [Ready Up](https://github.com/Auto-Tournament/ready-up), the native CS2 plugin (no Metamod, no CounterStrikeSharp).
 
 MatchZy Enhanced is the [MatchZy](https://github.com/shobhit-pathak/MatchZy) fork that [Auto Tournament](https://github.com/Auto-Tournament/auto-tournament) drives over RCON. It adds what a tournament platform needs to set up, control and follow matches from outside the game.
 
@@ -35,7 +35,7 @@ MatchZy Enhanced is the [MatchZy](https://github.com/shobhit-pathak/MatchZy) for
 
 ## Install
 
-The easiest way is [CS2 Server Manager](https://github.com/Auto-Tournament/cs2-server-manager), which sets up servers with the plugin installed and configured (its legacy stack). To install by hand, on a server with [CounterStrikeSharp](https://docs.cssharp.dev/):
+On a server with [CounterStrikeSharp](https://docs.cssharp.dev/):
 
 1. Download the [latest release](https://github.com/Auto-Tournament/matchzy-enhanced/releases/latest).
 2. Extract it into the server's `game/csgo/` directory.
