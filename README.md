@@ -12,6 +12,8 @@
 <br />
 
 > [!IMPORTANT]
+> **This repository is archived.** New servers should use [Ready Up](https://github.com/Auto-Tournament/ready-up).
+>
 > **MatchZy Enhanced is not supported in Auto Tournament 3.x.** It works with Auto Tournament 2.x. From 3.x, servers run [Ready Up](https://github.com/Auto-Tournament/ready-up), the native CS2 plugin (no Metamod, no CounterStrikeSharp).
 
 MatchZy Enhanced is the [MatchZy](https://github.com/shobhit-pathak/MatchZy) fork that [Auto Tournament](https://github.com/Auto-Tournament/auto-tournament) drives over RCON. It adds what a tournament platform needs to set up, control and follow matches from outside the game.
